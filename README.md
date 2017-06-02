@@ -4,7 +4,7 @@
 
 "The Body &amp; < >" in collaboration with The WhyNot, LavaLab and Hackers&Designers.
 
-\*17—June—2017 Amsterdam\*
+17—June—2017 Amsterdam
 
 ### Short-description
 
@@ -23,14 +23,14 @@ Traditionally, a rehearsal is a built in process, a space and time for developin
 
 ##### 12h - 13h: analysis of movement scores & programming scripts; and forming work groups.
 
-##### LUNCH
+##### Pause for lunch.
 
 ##### 14h - 17h: work sessions; exercises in 'digital space'.
 
 > The point above will offer a blueprint for exploration of the choreographic meaning: How can we become aware of our own bodies/movements? In parallel, to think how can we find alternatives to fixed ways of building space/time and movement qualities on web design environments? Leading to a reflection on ‘Programming and being programmed’; moving away from pre-chroeographed systems, moving towards building our ow choreographies.
 > Time dedicated to the experimentation (short critical reflections) using digital interfaces/ web-design tools.
 
-##### 17h - 18h: short presentations of the results; collective discussion/ reflection on the possible relations of choreography to design/technology.
+##### 17h - 18h: short presentations of the results; collective discussion/ reflection on the possible relations between choreography and design/media technologies.
 
 
 ### Choreographic Input:
